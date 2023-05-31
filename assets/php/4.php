@@ -17,4 +17,4 @@ function interpolasi($n_a, $n_b, $a, $b, $x)
 }
 
 $n_x = interpolasi($n_a, $n_b, $a, $b, $x);
-echo "Nilai n_18% dengan metode interpolasi: " . $n_x;
+echo "Nilai n_18 dengan metode interpolasi: " . $n_x;
